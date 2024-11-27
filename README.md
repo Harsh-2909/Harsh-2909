@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh-2909
-- 👀 I’m interested in Web3.0, interesting and cool projects, public APIs and free swags
-- 🌱 I’m currently learning Reactjs & brushing up my backend skills
+- 👀 I’m interested in AI, interesting and cool projects, public APIs and free swags
+- 🌱 I’m currently learning GenAI & brushing up my backend skills
 - 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/harsh-agarwal-tech/)
 - 📫 Follow me on [Twitter](https://www.twitter.com/HarshAgar29)
 
